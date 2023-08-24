@@ -3,7 +3,7 @@
  friendship.0001.desc_opening:1 "Times and people change. Sometimes those who are the closest to us seem to become strangers.\n\n"[ROOT.Char.GetTitledFirstNameNoTooltip]," [friend_in_question.Custom2('MyCharacterIntroduction', ROOT.Char)] smiles sadly."
  friendship.0001.desc_murder:0 ""For you to murder... I feel like there is no friendship left between us.""
  friendship.0001.desc:0 ""I feel like there is no friendship left between us.""
- friendship.0001.a:0 "It's the way of things."
+ friendship.0001.a:0 "It is the way of things."
  friendship.0001.b:1 "But... Remember all the good times!"
  friendship.0001.b.tt:0 "[friend_in_question.GetSheHe|U] will give our relationship another chance"
 
