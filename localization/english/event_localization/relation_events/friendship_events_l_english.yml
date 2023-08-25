@@ -6,7 +6,7 @@
  friendship.0001.a:0 "It is the way of things."
  friendship.0001.b:1 "But... Remember all the good times!"
  friendship.0001.b.tt:0 "[friend_in_question.GetSheHe|U] will give our relationship another chance"
-
+#T.B
  friendship.0002.t:0 "Drifting Apart"
  friendship.0002.desc:0 "Times and people change. Sometimes those who are the closest to us seem to become strangers.\n\nIt is clear that [first_friend.GetTitledFirstName] and I can no longer be called friends."
  friendship.0002.a:0 "It is the way of things."
