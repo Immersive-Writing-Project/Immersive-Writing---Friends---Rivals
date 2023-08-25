@@ -51,9 +51,9 @@
  friendship.0011.a:0 "We had some good times, but it is time to let go."
 
  friendship.0014.t:0 "A Betrayal"
- friendship.0014.desc:0 "After everything we have been through together, I still cannot believe [friend_to_rival.GetTitledFirstName] would do the things [friend_to_rival.GetSheHe] has done.\nIt is a betrayal of every friendly gesture we have shared. Indeed, a betrayal of our very friendship! We once shared bread, but now [friend_to_rival.GetSheHe] has made an enemy for life."
+ friendship.0014.desc:0 "At a gathering, [friend_to_rival.GetTitledFirstName] catches my surprised eye. I had not even known [friend_to_rival.GetSheHe] would be here tonight, and the longer we stand together in this place, neither able to approach the other, the deeper and softer the pit becomes in my stomach. Once, I might have called [friend_to_rival.GetHerHim] a dear friend, but a thousand snipes and jabs have pulled us so apart that I recognize [friend_to_rival.GetHerHim] no longer.\n\n[friend_to_rival.GetSheHe|U] was never my friend, was [friend_to_rival.GetSheHe]? A miserable [friend_to_rival.Custom('InsultNoun')], [friend_to_rival.GetFirstNameNoTooltip] grew close to me only to benefit [friend_to_rival.GetHerselfHimself], and I will never forgive [friend_to_rival.GetHerHim] for doing it, nor myself for not seeing it.\n\nBut, I see you now, [friend_to_rival.GetFirstNameNoTooltip], and see you as you are – my enemy for life."
  friendship.0014.a:0 "[friend_to_rival.GetFirstName] will pay!"
-
+ #WLS
  friendship.0015.opening:0 "[original_friend.Custom2('AppropriateGreeting', ROOT.Char)]"
  friendship.0015.desc:0 "I denounce the friendship you have so carelessly made a mockery of!\nFor all your promises and gestures to resolve in dishonor... Knowing you as I do now, I should not have been surprised.\n\nYou have brought this suffering upon yourself."
  friendship.0015.a:0 "You are the fool here, [original_friend.GetFirstName]."
