@@ -1,9 +1,9 @@
 ﻿l_english:
  rivalry.0001.t:0 "Burying the Hatchet"
- rivalry.0001.desc:2 ""[ROOT.Char.GetTitledFirstNameNoTooltip], we have had our differences in the past, but don't you agree that it's time to let bygones be bygones?"\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] gestures from me to [rival.GetHerHim], "Whatever is between us... let us start anew!""
+ rivalry.0001.desc:2 ""[ROOT.Char.GetTitledFirstNameNoTooltip], acknowledging one's mistakes is a difficult step, and in that regard, our shared history bears witness to the challenges we have faced. Perhaps now is the moment to embark on a journey of healing, where we leave our slights in the past and begin anew bearing forgiveness as our banners."\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] turns towards me, as [rival.GetHerHis] hand stretches out. "I hope that we can build new bridges between us.""
  rivalry.0001.a:1 "Yes, let us."
  rivalry.0001.b:0 "You're groveling before me?! [ROOT.Char.GetFaith.HighGodName] is good!"
-
+#M.L
  rivalry.0002.t:0 "Burying the Hatchet"
  rivalry.0002.desc:0 "Now, with the perspective of time, it all seems so strange. The hatred I carried and the pain I so desperately wanted to cause... \nWhat was it all for?\n\nCalling [rival_response.GetTitledFirstName] my enemy no longer makes sense to me."
  rivalry.0002.a:0 "Let bygones be bygones."
