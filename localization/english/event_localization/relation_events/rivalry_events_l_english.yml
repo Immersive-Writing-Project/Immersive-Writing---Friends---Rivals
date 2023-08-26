@@ -211,10 +211,11 @@
  rivalry.3001.desc.end:0 "\n\nThis cannot stand, I will make sure [rival.GetSheHe] pays for [rival.GetHerHis] insolence."
  rivalry.3001.a:0 "Just you wait, [rival.GetTitledFirstNameNoTooltip]!"
 
- rivalry.3002.t:0 "The Enemy of My Friend"
- rivalry.3002.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('friend') )], [friend.GetTitledFirstName], has been struggling with an annoyance lately. [rival.GetTitledFirstName] has picked [friend.GetHerHim] out as a target for all [rival.GetHerHis] vicious schemes.\n\nWho would I be to let this kind of treatment of my friends stand?"
- rivalry.3002.a:0 "I denounce you, [rival.GetTitledFirstNameNoTooltip]!"
- rivalry.3002.b:0 "[rival.GetTitledFirstName] doesn't have to know how I feel."
+rivalry.3002.t:0 "The Enemy of My Friend"
+rivalry.3002.desc:0 “It is dark in the library at night. Confound it! I forgot a candlestick and can not see that important scroll. Whilst thinking I would to wait until morning I overhear whispers in the corner. Between the rows of books I learn [rival.GetTitledFirstName] is plotting to steal a mount from my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('friend') )].”
+rivalry.3002.a:0 “I step into the light. I declare, [friend.GetTitledFirstName] has the finest steed in the kingdom.”
+rivalry.3002.b:0 “[friend.GetTitledFirstName] walking to court? Ha ha, oh the joy!”
+#D.I.
 
  rivalry.3003.t:0 "Rats Gathering"
  rivalry.3003.desc:2 "It seems as if [first_friend.GetTitledFirstName] has denounced me, citing my rivalry with [first_friend.GetHerHis] [first_friend.Custom2('RelationToMe', SCOPE.sC('friend') )], the [first_friend.Custom('InsultAdjective')] [friend.GetTitledFirstName].\n\nMy enemies appear to be multiplying..."
