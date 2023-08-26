@@ -1,9 +1,10 @@
 ﻿l_english:
  rivalry.0001.t:0 "Burying the Hatchet"
- rivalry.0001.desc:2 ""[ROOT.Char.GetTitledFirstNameNoTooltip], acknowledging one's mistakes is a difficult step, and in that regard, our shared history bears witness to the challenges we have faced. Perhaps now is the moment to embark on a journey of healing, where we leave our slights in the past and begin anew bearing forgiveness as our banners."\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] turns towards me, as [rival.GetHerHis] hand stretches out. "I hope that we can build new bridges between us.""
+ rivalry.0001.desc:2 ""[ROOT.Char.GetTitledFirstNameNoTooltip], acknowledging one's mistakes is a difficult step, and in that regard, our shared history bears witness to the challenges we have faced. Perhaps now is the moment to embark on a journey of healing, where we leave our slights in the past and begin anew, bearing forgiveness as our banner."\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] turns towards me, as [rival.GetHerHis] hand stretches out. "I hope that we can build new bridges between us.""
  rivalry.0001.a:1 "Yes, let us."
  rivalry.0001.b:0 "You're groveling before me?! [ROOT.Char.GetFaith.HighGodName] is good!"
 #M.L
+#Edited.S9
  rivalry.0002.t:0 "Burying the Hatchet"
  rivalry.0002.desc:0 "Now, with the perspective of time, it all seems so strange. The hatred I carried and the pain I so desperately wanted to cause... \nWhat was it all for?\n\nCalling [rival_response.GetTitledFirstName] my enemy no longer makes sense to me."
  rivalry.0002.a:0 "Let bygones be bygones."
@@ -217,6 +218,7 @@ rivalry.3002.desc:0 "It is dark in the library at night. Confound it! I forgot a
 rivalry.3002.a:0 "I step into the light. I declare, [friend.GetTitledFirstName] has the finest steed in the kingdom."
 rivalry.3002.b:0 "[friend.GetTitledFirstName] walking to court? Ha ha, oh the joy!"
 #D.I.
+#Edited.S9
 
  rivalry.3003.t:0 "Rats Gathering"
  rivalry.3003.desc:2 "It seems as if [first_friend.GetTitledFirstName] has denounced me, citing my rivalry with [first_friend.GetHerHis] [first_friend.Custom2('RelationToMe', SCOPE.sC('friend') )], the [first_friend.Custom('InsultAdjective')] [friend.GetTitledFirstName].\n\nMy enemies appear to be multiplying..."
