@@ -68,9 +68,10 @@
  rivalry.1014.a:0 "At least I've been able to cover my tracks..."
  rivalry.1014.a.exposed:0 "That didn't go at all as planned."
 
- rivalry.1015.t:0 "Popular Poem"
- rivalry.1015.desc:0 "The witty rhymes and clever innuendo I worked into my scathing critique of [rival.GetTitledFirstNamePossessive] character has been going around [rival.GetHerHis] court like wildfire! Try as [rival.GetSheHe] might, [rival.GetSheHe] cannot suppress their spread, which only adds to [rival.GetHerHis] embarrassment!"
- rivalry.1015.a:0 "Maybe this will finally put [rival.GetHerHim] in [rival.GetHerHis] place."
+rivalry.1015.t:0 "Popular Poem"
+rivalry.1015.desc:0 "Oh, how I love the puppet theatre! But let me make some improvements. The lead fool shall be none other than [rival.GetTitledFirstNamePossessive]. And the horse puppet is to sit on [rival.GetHerHis] face. That’s it, very good."
+rivalry.1015.a:0 "Now, play this puppet show in every town."
+#D.I.
 
  rivalry.1016.t:0 "Poem Rejected"
  rivalry.1016.desc:0 "After writing several poems mocking [rival.GetTitledFirstNamePossessive] character, I spread them around court and waited for them to catch on.\n\nUnfortunately, it seems my writings are less than popular... in fact, everyone is pretty much in agreement that the poems are drivel that is not worth the paper they are written on!"
@@ -212,9 +213,9 @@
  rivalry.3001.a:0 "Just you wait, [rival.GetTitledFirstNameNoTooltip]!"
 
 rivalry.3002.t:0 "The Enemy of My Friend"
-rivalry.3002.desc:0 “It is dark in the library at night. Confound it! I forgot a candlestick and can not see that important scroll. Whilst thinking I would to wait until morning I overhear whispers in the corner. Between the rows of books I learn [rival.GetTitledFirstName] is plotting to steal a mount from my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('friend') )].”
-rivalry.3002.a:0 “I step into the light. I declare, [friend.GetTitledFirstName] has the finest steed in the kingdom.”
-rivalry.3002.b:0 “[friend.GetTitledFirstName] walking to court? Ha ha, oh the joy!”
+rivalry.3002.desc:0 "It is dark in the library at night. Confound it! I forgot a candlestick and can not see that important scroll. Whilst thinking I would to wait until morning I overhear whispers in the corner. Between the rows of books I learn [rival.GetTitledFirstName] is plotting to steal a mount from my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('friend') )]."
+rivalry.3002.a:0 "I step into the light. I declare, [friend.GetTitledFirstName] has the finest steed in the kingdom."
+rivalry.3002.b:0 "[friend.GetTitledFirstName] walking to court? Ha ha, oh the joy!"
 #D.I.
 
  rivalry.3003.t:0 "Rats Gathering"
