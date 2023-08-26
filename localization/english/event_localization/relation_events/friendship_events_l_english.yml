@@ -8,9 +8,9 @@
  friendship.0001.b.tt:0 "[friend_in_question.GetSheHe|U] will give our relationship another chance"
 #T.B
  friendship.0002.t:0 "Drifting Apart"
- friendship.0002.desc:0 "Times and people change. Sometimes those who are the closest to us seem to become strangers.\n\nIt is clear that [first_friend.GetTitledFirstName] and I can no longer be called friends."
+ friendship.0002.desc:0 "A piece of stiff parchment falls from my desk, and as I bend to pick it up, I see the familiar markings made by the hand of my friend, [first_friend.GetTitledFirstName]. It is a letter I long ago received, and in equal time forgot, and though I have some half-dreamt memory of opening it, none of [first_friend.GetHerHis] words ring with familiarity. And is that not shameful? That there should come a time when a friend might be the furthest thing from my thoughts?\n\nSometimes, in the violent lurching of the years, friends do fall to the wayside, and I find it as much a tragedy as death to realize [first_friend.GetSheHe] and I are not as close as we once were; that, once, I would have disregarded anything to read and answer [first_friend.GetHerHis] letters, but now not even my guilt motivates me to reply.\n\nBut so life goes. Perhaps our friendship has run its course, but I will miss calling [first_friend.GetFirstNameNoTooltip] my friend."
  friendship.0002.a:0 "It is the way of things."
-
+ #WLS
  friendship.0003.t:0 "Something More"
  friendship.0003.desc_intro:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('friend_as_potential_lover'))] "
  friendship.0004.desc_intro:0 "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('first_friend'))] "
