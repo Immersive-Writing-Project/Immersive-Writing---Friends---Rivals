@@ -33,7 +33,8 @@
  friendship.0007.desc:0 "My heart is pounding when I reach out to touch [friend_as_potential_lover.GetTitledFirstNamePossessive] cheek, even though I already know [friend_as_potential_lover.GetSheHe] will not pull away.\n\nOur embrace is full of more love than I have ever felt before."
  friendship.0007.a:1 "Oh, [friend_as_potential_lover.GetFirstNameNoTooltip]!"
  friendship.0008.t:0 "When Care Becomes Passion"
- friendship.0008.desc:0 "My heart is pounding when I reach out to touch [first_friend.GetTitledFirstNamePossessive] cheek, even though I already know [first_friend.GetSheHe] will not pull away.\n\nOur embrace is more full of love than I have ever felt before."
+ friendship.0008.desc:0 "My heart is pounding when I reach out to touch [first_friend.GetTitledFirstNamePossessive] cheek, even though I already know [first_friend.GetSheHe] will not pull away.\n\nOur embrace is full of love, more than I have ever felt before."
+ #Edited.S9
  friendship.0008.a:1 "Oh, [first_friend.GetFirstNameNoTooltip]!"
  friendship.0009.t:0 "What Could Have Been"
  friendship.0009.desc:0 "After [friend_as_potential_lover.GetHerHis] passing, I have spent many late evenings to myself, thinking of [friend_as_potential_lover.GetFirstName]. Loyal, friendly and warm to the end, I cannot help but think of what might have been, had [friend_as_potential_lover.GetSheHe] not been taken from me too soon."
@@ -53,24 +54,26 @@
  friendship.0011.a:0 "We had some good times, but it is time to let go."
 
  friendship.0014.t:0 "A Betrayal"
- friendship.0014.desc:0 "At a gathering, [friend_to_rival.GetTitledFirstName] catches my surprised eye. I had not even known [friend_to_rival.GetSheHe] would be here tonight, and the longer we stand together in this place, neither able to approach the other, the deeper and softer the pit becomes in my stomach. Once, I might have called [friend_to_rival.GetHerHim] a dear friend, but a thousand snipes and jabs have pulled us so apart that I recognize [friend_to_rival.GetHerHim] no longer.\n\n[friend_to_rival.GetSheHe|U] was never my friend, was [friend_to_rival.GetSheHe]? A miserable [friend_to_rival.Custom('InsultNoun')], [friend_to_rival.GetFirstNameNoTooltip] grew close to me only to benefit [friend_to_rival.GetHerselfHimself], and I will never forgive [friend_to_rival.GetHerHim] for doing it, nor myself for not seeing it.\n\nBut, I see you now, [friend_to_rival.GetFirstNameNoTooltip], and see you as you are – my enemy for life."
+ friendship.0014.desc:0 "At a gathering, [friend_to_rival.GetTitledFirstName] catches my surprised eye. I had not even known [friend_to_rival.GetSheHe] would be here tonight, and the longer we stand together in this place, neither able to approach the other, the deeper and harder the pit becomes in my stomach. Once, I might have called [friend_to_rival.GetHerHim] a dear friend, but a thousand snipes and jabs have pulled us so apart that I recognize [friend_to_rival.GetHerHim] no longer.\n\n[friend_to_rival.GetSheHe|U] was never my friend, was [friend_to_rival.GetSheHe]? A miserable [friend_to_rival.Custom('InsultNoun')], [friend_to_rival.GetFirstNameNoTooltip] grew close to me only to benefit [friend_to_rival.GetHerselfHimself], and I will never forgive [friend_to_rival.GetHerHim] for doing it, nor myself for not seeing it.\n\nBut, I see you now, [friend_to_rival.GetFirstNameNoTooltip], and see you as you are – my enemy for life."
  friendship.0014.a:0 "[friend_to_rival.GetFirstName] will pay!"
  #WLS
+ #Edited.S9
  friendship.0015.opening:0 "[original_friend.Custom2('AppropriateGreeting', ROOT.Char)]"
  friendship.0015.desc:0 "I denounce the friendship you have so carelessly made a mockery of!\nFor all your promises and gestures to resolve in dishonor... Knowing you as I do now, I should not have been surprised.\n\nYou have brought this suffering upon yourself."
  friendship.0015.a:0 "You are the fool here, [original_friend.GetFirstName]."
 
  friendship.0018.t:0 "More Friends Than Time"
- friendship.0018.desc:0 "A [ROOT.GetCharacter.Custom('friendship_metaphor_with_tending')].\nWith so many friends spread to the winds, I barely have time to keep in touch by letter, much less give them the attention they deserve.\nPerhaps it would be easier for me if I were to let someone... drift away."
+ friendship.0018.desc:0 "A [ROOT.GetCharacter.Custom('friendship_metaphor_with_tending')].\nWith so many friends scattered to the winds, I barely have time to keep in touch by letter, much less give them the attention they deserve.\nPerhaps it would be easier for me if I were to let someone... drift away."
  friendship.0018.a:0 ""I am sorry to be writing with unfortunate news, [friend_1.GetTitledFirstName]...""
  friendship.0018.b:0 ""You have been good to me, [friend_2.GetFirstName], but...""
  friendship.0018.c:0 ""It's not you, it's me, [friend_3.GetFirstName]...""
  friendship.0018.d:0 "I will not let down a single one of my friends!"
  friendship.0018.e:0 "Oh no, I've got this."
  friendship.0019.t:0 "Ceasing Communication"
- friendship.0019.desc:0 "I have been awaiting [first_friend.GetTitledFirstNamePossessive] latest letter for a long time, but nothing has arrived. I have sent missives of my own, to no response.\nThe inevitable conclusion seems to be that [first_friend.GetSheHe] no longer considers me a friend worthy of the time and attention."
+ friendship.0019.desc:0 "I have been awaiting [first_friend.GetTitledFirstNamePossessive] latest letter for a long time, but nothing has arrived. I have sent missives of my own, to no response.\nThe inevitable conclusion seems to be that [first_friend.GetSheHe] no longer considers me a friend worthy of their time and attention."
  friendship.0019.a_1:0 "I am one of the few who would have answered in your time of need, [first_friend.GetFirstName]."
  friendship.0019.a_2:0 "I haven't been the best of friend either, [first_friend.GetFirstName]."
+ #Edited.S9
  
  friendship.1002.opening:0 "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"
  friendship.1002.desc:0 "I present to you this gift as a gesture of appreciation for our lasting friendship."
