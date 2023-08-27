@@ -96,9 +96,10 @@ rivalry.1018.desc:0 "I watch as [rival.GetTitledFirstName] approaches. The feet 
 rivalry.1018.a:0 "I fear the dispute between [rival.GetSheHe] and I will be the talk of the land. We will both suffer."
 #D.I. 
 
- rivalry.1019.t:0 "Injuria Gratis"
- rivalry.1019.desc:0 "When I went up to [rival.GetTitledFirstName] to give [rival.GetHerHim] a piece of my mind, listing off all of [rival.GetHerHis] faults. [rival.GetSheHe|U] had nothing to say in [rival.GetHerHis] defense, and I left knowing that [rival.GetSheHe] had been firmly put in [rival.GetHerHis] place."
- rivalry.1019.a:0 "I knew [rival.GetSheHe] was weak!"
+rivalry.1019.t:0 "Injuria Gratis"
+rivalry.1019.desc:0 "One by one the footmen stopped laughing. They watch [rival.GetTitledFirstName] intensely.  \"There's an #Vangry# whelp, if ever I saw one,\" said a footman. \n \"It is [rival.GetHerHis] #Vpride# we broke,\" said another. \n \"I am your liege,\" I say loudly. \"I may take and give as I see fit.\"
+rivalry.1019.a:0 "Take your #Vanger# and #Vpride# elsewhere!"
+#D.I.
 
  rivalry.1020.t:0 "Snub Challenged!"
  rivalry.1020.desc:0 "When I called [rival.GetTitledFirstName] out on [rival.GetHerHis] [rival.Custom('quirk_neg_noun')], [rival.GetSheHe] took it as a grave insult and challenged me to a duel in order to uphold [rival.GetHerHis] honor!"
