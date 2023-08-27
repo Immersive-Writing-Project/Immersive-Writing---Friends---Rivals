@@ -87,7 +87,7 @@ rivalry.1017.desc:2 "Another morning spent inspecting my footmen...such a consta
 rivalry.1017.a:0 "Come now, do you not think it an improvement?"
 rivalry.1017.b:0 "You had better follow your words with steel, draw your sword, knave!"
 rivalry.1017.b.tt:0 "#F I will show that wastrel that I am better than [from_rival.GetSheHe] is#!"
-rivalry.1017.c:0 "Oh. It’s your home. I had no idea!"
+rivalry.1017.c:0 "Oh. It’s #EMP your #! home. I had no idea!"
 #D.I
 #Edited.S9
 
@@ -98,7 +98,7 @@ rivalry.1018.a:0 "I fear the dispute between [rival.GetSheHe] and I will be the 
 
 rivalry.1019.t:0 "Injuria Gratis"
 rivalry.1019.desc:0 "One by one the footmen stopped laughing. They watch [rival.GetTitledFirstName] intensely.  \"There's an #Vangry# whelp, if ever I saw one,\" said a footman. \n \"It is [rival.GetHerHis] #Vpride# we broke,\" said another. \n \"I am your liege,\" I say loudly. \"I may take and give as I see fit.\"
-rivalry.1019.a:0 "Take your #Vanger# and #Vpride# elsewhere!"
+rivalry.1019.a:0 "Take your #V anger #! and #V pride #! elsewhere!"
 #D.I.
 
  rivalry.1020.t:0 "Snub Challenged!"
