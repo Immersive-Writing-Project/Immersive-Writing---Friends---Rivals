@@ -83,7 +83,7 @@ rivalry.1016.a.exposed:0 "No more silly notes on official papers."
 #D.I.
 
 rivalry.1017.t:0 "Audacious Insult!"
-rivalry.1017.desc:2 "Another morning spent inspecting my knights...such a constant chore. I want to be entertained! \n\nSo, to liven things up, I have arranged a mock raid on a dwelling. But not my dwelling, [from_rival.GetTitledFirstName] dwelling. Needless to say, my knights got carried away. They wrecked the yard, the store and the hall and pissed in the well! \n\nMy laughter and delight is interrupted when [from_rival.GetTitledFirstName] storms up to the gate hurling insults. \n\n[ROOT.GetCharacter.Custom('quirk_neg_adjective')|U] [ROOT.GetCharacter.Custom('InsultNoun')], I’ll show you some manners."
+rivalry.1017.desc:2 "Another morning spent inspecting my footmen...such a constant chore. I want to be entertained! \n\nSo, to liven things up, I have arranged a mock raid on a dwelling. But not my dwelling, [from_rival.GetTitledFirstName] dwelling. Needless to say, the footmen got carried away. They wrecked the yard, the store and the hall and pissed in the well! \n\nMy laughter and delight is interrupted when [from_rival.GetTitledFirstName] storms up to the gate hurling insults. \n\n[ROOT.GetCharacter.Custom('quirk_neg_adjective')|U] [ROOT.GetCharacter.Custom('InsultNoun')], I’ll show you some manners."
 rivalry.1017.a:0 "Come now, do you not think it an improvement?"
 rivalry.1017.b:0 "You had better follow your words with steel, draw your sword, knave!"
 rivalry.1017.b.tt:0 "#F I will show that wastrel that I am better than [from_rival.GetSheHe] is#!"
