@@ -6,7 +6,7 @@
 #M.L
 #Edited.S9
 rivalry.0002.t:0 "Burying the Hatchet"
-rivalry.0002.desc:0 "A final days to this bickering have come. My scribes present [rival_response.GetTitledFirstName] with a copy of the agreed terms. Let the peace be signed, for I have other matters to attend."
+rivalry.0002.desc:0 "Finally, our days of bickering and conflict are at an end. My scribes present [rival_response.GetTitledFirstName] with a copy of the agreed terms. Let the peace be signed, for I have other matters to attend."
 rivalry.0002.a:0 "Courtiers, send the messengers far and wide. Our rivalry is at an end."
 #D.I
 
@@ -92,14 +92,16 @@ rivalry.1017.c:0 "Oh. It’s #EMP your #! home. I had no idea!"
 #Edited.S9
 
 rivalry.1018.t:0 "Reprisal"
-rivalry.1018.desc:0 "I watch as [rival.GetTitledFirstName] approaches. The feet are heavy set so I square to meet [rival.GetSheHe] and their fury. But the ground is soft from rain and we both fall into a soggy mess."
+rivalry.1018.desc:0 "I watch as [rival.GetTitledFirstName] approaches, snorting and stomping like an enraged bull. I square to meet [rival.GetSheHe] and their fury, but the ground is soft from rain and [rival.GetHerHis] momentum only serves to drive us into the muck."
 rivalry.1018.a:0 "I fear the dispute between [rival.GetSheHe] and I will be the talk of the land. We will both suffer."
 #D.I. 
+#Edited.S9
 
 rivalry.1019.t:0 "Injuria Gratis"
-rivalry.1019.desc:0 "One by one the footmen stopped laughing. They watch [rival.GetTitledFirstName] intensely.  \"There's an #Vangry# whelp, if ever I saw one,\" said a footman. \n \"It is [rival.GetHerHis] #Vpride# we broke,\" said another. \n \"I am your liege,\" I say loudly. \"I may take and give as I see fit.\"
-rivalry.1019.a:0 "Take your #V anger #! and #V pride #! elsewhere!"
+rivalry.1019.desc:0 "One by one the footmen stop laughing. They watch [rival.GetTitledFirstName] intensely.  \"There's an #Vangry# whelp, if ever I saw one,\" said a footman. \n \"It is [rival.GetHerHis] #Vpride# we broke,\" said another. \n \"I am your liege,\" I say loudly. \"I may take and give as I see fit.\"
+rivalry.1019.a:0 "Take your #Vanger# and #Vpride# elsewhere!"
 #D.I.
+#Edited.S9
 
  rivalry.1020.t:0 "Snub Challenged!"
  rivalry.1020.desc:0 "When I called [rival.GetTitledFirstName] out on [rival.GetHerHis] [rival.Custom('quirk_neg_noun')], [rival.GetSheHe] took it as a grave insult and challenged me to a duel in order to uphold [rival.GetHerHis] honor!"
