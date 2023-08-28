@@ -25,6 +25,7 @@
  friendship.0004.goes_for_it_tooltip:1 "With your heart on your sleeve, you decide to confess your feelings"
  friendship.0004.b:0 "No, we are good friends, and good friends only."
  #WLS -- friendship.0003.desc + friendship.0003.a, and friendship.0004.desc
+ #Edited.S9
  friendship.0005.t:0 "A Careful Rejection"
  friendship.0005.desc:0 "Even though I tried to sound ambiguous, [friend_as_potential_lover.GetTitledFirstName] knew exactly what I was trying to say, as always. [friend_as_potential_lover.GetHerHis|U] response was so gently phrased, so full of caring, yet hurt so much.\n\n[friend_as_potential_lover.GetSheHe|U] feels strongly for me, but only as a friend."
  friendship.0005.a:0 "I try not to let the pain show on my face. "Oh, you misunderstood me.""
