@@ -5,9 +5,10 @@
  rivalry.0001.b:0 "You're groveling before me?! [ROOT.Char.GetFaith.HighGodName] is good!"
 #M.L
 #Edited.S9
- rivalry.0002.t:0 "Burying the Hatchet"
- rivalry.0002.desc:0 "Now, with the perspective of time, it all seems so strange. The hatred I carried and the pain I so desperately wanted to cause... \nWhat was it all for?\n\nCalling [rival_response.GetTitledFirstName] my enemy no longer makes sense to me."
- rivalry.0002.a:0 "Let bygones be bygones."
+rivalry.0002.t:0 "Burying the Hatchet"
+rivalry.0002.desc:0 "Finally, our days of bickering and conflict are at an end. My scribes present [rival_response.GetTitledFirstName] with a copy of the agreed terms. Let the peace be signed, for I have other matters to attend."
+rivalry.0002.a:0 "Courtiers, send the messengers far and wide. Our rivalry is at an end."
+#D.I
 
  rivalry.0003.t:0 "An Unworthy Opponent"
  rivalry.0003.imprisoned.desc:0 "When the news of [nemesis.GetTitledFirstNamePossessive] incarceration reached me,"
@@ -74,28 +75,33 @@ rivalry.1015.desc:0 "Oh, how I love the puppet theatre! But let me make some imp
 rivalry.1015.a:0 "Now, play this puppet show in every town."
 #D.I.
 
- rivalry.1016.t:0 "Poem Rejected"
- rivalry.1016.desc:0 "After writing several poems mocking [rival.GetTitledFirstNamePossessive] character, I spread them around court and waited for them to catch on.\n\nUnfortunately, it seems my writings are less than popular... in fact, everyone is pretty much in agreement that the poems are drivel that is not worth the paper they are written on!"
- rivalry.1016.desc.exposed:0 "Worse, my hatred of [rival.GetTitledFirstName] is so transparent that everyone knows I was the one who wrote them!"
- rivalry.1016.a:0 "I'm just glad I didn't put my name on it."
- rivalry.1016.a.exposed:0 "Why did I think that was a good idea?"
+rivalry.1016.t:0 "Poem Rejected"
+rivalry.1016.desc:0 "Oh disaster! I mixed up important legislative documents with a scathing poem about the [rival.GetTitledFirstNamePossessive]. And now the scribe has it copied and distributed around the court. How did this happen?"
+rivalry.1016.desc.exposed:0 "I must personally take charge and collect every copy."
+rivalry.1016.a:0 "Many court members use the scribe, no one will suspect me."
+rivalry.1016.a.exposed:0 "No more silly notes on official papers."
+#D.I.
 
 rivalry.1017.t:0 "Audacious Insult!"
-rivalry.1017.desc:2 “Another morning spent inspecting my knights...such a constant chore. I want to be entertained! \n\nTo liven things up, I arranged a mock raid on a castle. But not my castle, [from_rival.GetTitledFirstName] castle. Needless to say, my knights...got carried away. They wrecked the keep, the bailey and the halls and pissed in the well! \n\nMy laughter and delight is interrupted when [from_rival.GetTitledFirstName] storms up to the gate hurling insults. \n\n[ROOT.GetCharacter.Custom('quirk_neg_adjective')|U] [ROOT.GetCharacter.Custom('InsultNoun')], I’ll show you some manners." 
+rivalry.1017.desc:2 "Another morning spent inspecting my footmen...such a constant chore. I want to be entertained! \n\nSo, to liven things up, I have arranged a mock raid on a dwelling. But not my dwelling, [from_rival.GetTitledFirstName] dwelling. Needless to say, the footmen got carried away. They wrecked the yard, the store and the hall and pissed in the well! \n\nMy laughter and delight is interrupted when [from_rival.GetTitledFirstName] storms up to the gate hurling insults. \n\n[ROOT.GetCharacter.Custom('quirk_neg_adjective')|U] [ROOT.GetCharacter.Custom('InsultNoun')], I’ll show you some manners."
 rivalry.1017.a:0 "Come now, do you not think it an improvement?"
-rivalry.1017.b:0 “You had better follow your words with steel, draw your sword, knave!”
-rivalry.1017.b.tt:0 "Knights, I tire of this. Burn it down."
-rivalry.1017.c:0 "Oh. It’s your castle. I had no idea!"
+rivalry.1017.b:0 "You had better follow your words with steel, draw your sword, knave!"
+rivalry.1017.b.tt:0 "#F I will show that wastrel that I am better than [from_rival.GetSheHe] is#!"
+rivalry.1017.c:0 "Oh. It’s #EMP your #! home. I had no idea!"
 #D.I
 #Edited.S9
 
- rivalry.1018.t:0 "Reprisal"
- rivalry.1018.desc:0 "When I went up to [rival.GetTitledFirstName] to give [rival.GetHerHim] a piece of my mind, [rival.GetSheHe] retorted with a slew of insults and abuse of [rival.GetHerHis] own!\n\nThe exchange was seen by many in the realm as childish, and we have both lost face as a result."
- rivalry.1018.a:0 "It's all [rival.GetHerHis] fault for being so [rival.Custom('quirk_neg_adjective')] in the first place!"
+rivalry.1018.t:0 "Reprisal"
+rivalry.1018.desc:0 "I watch as [rival.GetTitledFirstName] approaches, snorting and stomping like an enraged bull. I square to meet [rival.GetSheHe] and their fury, but the ground is soft from rain and [rival.GetHerHis] momentum only serves to drive us into the muck."
+rivalry.1018.a:0 "I fear the dispute between [rival.GetSheHe] and I will be the talk of the land. We will both suffer."
+#D.I. 
+#Edited.S9
 
- rivalry.1019.t:0 "Injuria Gratis"
- rivalry.1019.desc:0 "When I went up to [rival.GetTitledFirstName] to give [rival.GetHerHim] a piece of my mind, listing off all of [rival.GetHerHis] faults. [rival.GetSheHe|U] had nothing to say in [rival.GetHerHis] defense, and I left knowing that [rival.GetSheHe] had been firmly put in [rival.GetHerHis] place."
- rivalry.1019.a:0 "I knew [rival.GetSheHe] was weak!"
+rivalry.1019.t:0 "Injuria Gratis"
+rivalry.1019.desc:0 "One by one the footmen stop laughing. They watch [rival.GetTitledFirstName] intensely.  \"There's an #Vangry# whelp, if ever I saw one,\" said a footman. \n \"It is [rival.GetHerHis] #Vpride# we broke,\" said another. \n \"I am your liege,\" I say loudly. \"I may take and give as I see fit.\"
+rivalry.1019.a:0 "Take your #Vanger# and #Vpride# elsewhere!"
+#D.I.
+#Edited.S9
 
  rivalry.1020.t:0 "Snub Challenged!"
  rivalry.1020.desc:0 "When I called [rival.GetTitledFirstName] out on [rival.GetHerHis] [rival.Custom('quirk_neg_noun')], [rival.GetSheHe] took it as a grave insult and challenged me to a duel in order to uphold [rival.GetHerHis] honor!"
