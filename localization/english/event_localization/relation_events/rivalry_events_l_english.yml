@@ -92,7 +92,7 @@ rivalry.1017.c:0 "Oh. It’s #EMP your #! home. I had no idea!"
 #Edited.S9
 
 rivalry.1018.t:0 "Reprisal"
-rivalry.1018.desc:0 "I watch as [rival.GetTitledFirstName] approaches, snorting and stomping like an enraged bull. I square to meet [rival.GetSheHe] and their fury, but the ground is soft from rain and [rival.GetHerHis] momentum only serves to drive us into the muck."
+rivalry.1018.desc:0 "I watch as [rival.GetTitledFirstName] approaches, snorting and stomping like an enraged bull. I square to meet [rival.GetHerHim] and [rival.GetHerHis] fury, but the ground is soft from rain and [rival.GetHerHis] momentum only serves to drive us into the muck."
 rivalry.1018.a:0 "I fear the dispute between [rival.GetSheHe] and I will be the talk of the land. We will both suffer."
 #D.I. 
 #Edited.S9
