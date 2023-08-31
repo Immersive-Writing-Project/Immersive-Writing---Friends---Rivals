@@ -10,15 +10,16 @@ rivalry.0002.desc:0 "Finally, our days of bickering and conflict are at an end. 
 rivalry.0002.a:0 "Courtiers, send the messengers far and wide. Our rivalry is at an end."
 #D.I
 
- rivalry.0003.t:0 "An Unworthy Opponent"
- rivalry.0003.imprisoned.desc:0 "When the news of [nemesis.GetTitledFirstNamePossessive] incarceration reached me,"
- rivalry.0003.incapable.desc:0 "When I first heard of [nemesis.GetTitledFirstNamePossessive] accident and drooling, bedridden state,"
- rivalry.0003.my_prisoner.desc:0 "When I slammed the cell door in [nemesis.GetTitledFirstNamePossessive] despicable face,"
- rivalry.0003.middle.desc:0 "I was filled with glee. That [nemesis.Custom('InsultAdjective')] [nemesis.Custom('InsultNoun')] was finally getting what [nemesis.GetSheHe] deserved!\n\n"
- rivalry.0003.compassionate.desc:0 "But my happiness has faded with time. It was a pleasure to defeat the old [nemesis.GetTitledFirstNameNoTooltip], but this wretched creature? I almost feel #EMP sorry#! for [nemesis.GetHerHim]..."
- rivalry.0003.uncompassionate.desc:0 "With time, however, [nemesis.GetHerHis] sorry state has come to #EMP bore#! me. I find no pleasure in tormenting a meek little mouse."
- rivalry.0003.a:0 "It is time to end this chapter."
- rivalry.0003.b:0 "I will never forgive [nemesis.GetHerHim]! Ever!"
+rivalry.0003.t:0 "An Unworthy Opponent"
+rivalry.0003.imprisoned.desc:0 "A messenger brings news of my nemesis [nemesis.GetTitledFirstName]. With a wry grin, he tells me [nemesis.GetSheHe] is chained and rotting. /n I had oftern wondered, should my enemy become detained in such a way, how would I feel. Would it be a joyous occasion? Could I now brandish the court with tales of fate and divine retribution?"
+rivalry.0003.incapable.desc:0 "A messenger brings news of my nemesis [nemesis.GetTitledFirstName]. With a wry grin, he tells me [nemesis.GetSheHe] is insalubrious and can no longer walk.  /n To think of [nemesis.GetHerHim] laying in the dark, their physical pain ever present. It is a mortal thought."
+rivalry.0003.my_prisoner.desc:0 "Now I have [nemesis.GetTitledFirstName] in shackles. Let us see how [nemesis.GetSheHe] fares with a gag on their face. I have control of their person, I win despite their dudgeon."
+rivalry.0003.middle.desc:0 "And so rest my concerns. [nemesis.GetTitledFirstName] is no longer a threat to me."
+rivalry.0003.compassionate.desc:0 "But I wonder, is the fate which befell [nemesis.GetTitledFirstName] truly deserving? Time will heal the hurts we have done each other, the real pain [nemesis.GetSheHe] now harbours are [nemesis.GetHerHis] own to bare."
+rivalry.0003.uncompassionate.desc:0 "I sense the rivalry between ourselves draws pail. Let me hear no more about [nemesis.GetFullName]."
+rivalry.0003.a:0 "This dreich burden is now behind me!"
+rivalry.0003.b:0 "Our quarrel is a part of me, I will carry it always."
+#D.I.
 
  rivalry.1001.t:0 "Always Present"
  rivalry.1001.desc.opening:0 "[rival.GetTitledFirstName] has become a constant scourge upon my life.\n\n"
