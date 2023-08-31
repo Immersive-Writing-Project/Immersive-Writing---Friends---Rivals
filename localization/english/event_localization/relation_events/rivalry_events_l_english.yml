@@ -134,9 +134,9 @@ rivalry.1019.a:0 "Take your #Vanger# and #Vpride# elsewhere!"
  rivalry.1024.a:0 "I must limp home in disgrace."
 
  rivalry.1025.t:0 "Shameful Display"
- rivalry.1025.desc:1 "That coward [from_rival.GetTitledFirstName] has refused to duel me, despite having insulted me to my face! I cannot think of anything more shameful than to be so disrespectful without the will to back it up. I always knew that [rival.GetSheHe] was dishonorable, and this proves it!"
- rivalry.1025.a:0 "At least I have maintained my honor."
-
+ rivalry.1025.desc:1 "That Weak Chinned Craven [from_rival.GetTitledFirstName] has decided against honor, and renegged their obligation to duel me! having been so gracious as to throw down the gauntlet to my face, and use some of that devil language, I fully expected them to be willing to die over this slight! I cannot fathom anything simultaniously more dishonorable and weak willed! to be so brazan then to back down!Everyone always said, that I, was being 'unresonable' and 'unfair' in my judgements towards [rival.GetSheHe] character, but now I have evidence, neatly gift wrapped to tell anyone who questions me again!"
+ rivalry.1025.a:0 "My Honor remains as shiny and unbroken as ever!"
+ #TGTGB
  rivalry.1030.t:0 "Meddling in Marriage"
  rivalry.1030.desc.happy:0 "It irks me that my rival [rival.GetTitledFirstName] seems to enjoy the comforts of a blissful marriage with [rival.GetHerHis] [rival_spouse.GetWifeHusband] [rival_spouse.GetTitledFirstName]. I could cause [rival.GetHerHim] a good deal of stress and worry by sowing suspicion between the two, making them doubt one another."
  rivalry.1030.desc.neutral:0 "The loveless marriage between my rival [rival.GetTitledFirstName] and [rival.GetHerHis] [rival_spouse.GetWifeHusband] [rival_spouse.GetTitledFirstName] leaves a tempting opportunity for me. If I can sow suspicion and distrust between the two, [rival.GetFirstName] would be so distracted by [rival.GetHerHis] unraveling marriage that [rival.GetSheHe] would be unable to interfere with my plans!"
