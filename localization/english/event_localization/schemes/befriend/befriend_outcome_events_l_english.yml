@@ -10,9 +10,9 @@
  befriend_outcome.1301.desc:0 "After long thinking, I finally decided to invite [target.GetTitledFirstName] to come on a tour of one of my estates in [barony.GetNameNoTier]."
 
  befriend_outcome.2001.t:0 "Befriend: An Enjoyable Evening"
- befriend_outcome.2001.desc:0 "By my request, I was seated next to [target.GetHerHim] for the duration of dinner, and we both had a great time! I was surprised at how much we had to talk about."
- befriend_outcome.2001.a:0 "Such a pleasant [target.GetWomanMan]!"
-
+ befriend_outcome.2001.desc:0 ""It's too late to save me," [target.GetTitledFirstName] joked between sips of the spicy lentil soup. Sweat ran down [target.GetHerHis] temple but the [target.GetWomanMan] was belligerant.\n\n"How about you pay attention to what you stuff down your gullet?" I replied, hoping I wasn't being too frank but the [target.GetWomanMan] thankfully laughed.\n\n"Yes, yes, I know what I'm eating," [target.GetSheHe] replied, wiping [target.GetHerHis] brow.\n\n"What is it, then?"\n\n"It's delicious, that's what! Now quit bothering me and try some yourself," [target.GetSheHe] offered a spoon and I obliged.\n\nBy God, [target.GetSheHe] was right! We spent the rest of the evening sharing the soup and drinking a lake's worth of water between us.\n\nDespite our burning tongues and red faces, [target.GetSheHe] proved to be such fun company."
+ befriend_outcome.2001.a:0 "Such a pleasant [target.GetWomanMan]."
+#S.S
  befriend_outcome.2002.t:0 "Befriend: The Dance"
  befriend_outcome.2002.desc:0 "The ball was exquisite, and [target.GetTitledFirstName] put on a fine show! Afterward, I told [target.GetHerHim] how impressed I was, and we got to talking."
  befriend_outcome.2002.a:0 "What a good day!"
