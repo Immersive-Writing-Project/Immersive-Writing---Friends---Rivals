@@ -134,8 +134,8 @@ rivalry.1019.a:0 "Take your #Vanger# and #Vpride# elsewhere!"
  rivalry.1024.a:0 "I must limp home in disgrace."
 
  rivalry.1025.t:0 "Shameful Display"
- rivalry.1025.desc:1 "That Weak Chinned Craven [from_rival.GetTitledFirstName] has decided against honor, and renegged their obligation to duel me! having been so gracious as to throw down the gauntlet to my face, and use some of that devil language, I fully expected them to be willing to die over this slight! I cannot fathom anything simultaniously more dishonorable and weak willed! to be so brazan then to back down!Everyone always said, that I, was being 'unresonable' and 'unfair' in my judgements towards [rival.GetSheHe] character, but now I have evidence, neatly gift wrapped to tell anyone who questions me again!"
- rivalry.1025.a:0 "My Honor remains as shiny and unbroken as ever!"
+ rivalry.1025.desc:1 "That weak-chinned craven [from_rival.GetTitledFirstName] has decided against honor, and reneged their obligation to duel me! Having been so earnest as to throw down the gauntlet before, and all those devilish insults... I fully expected them to die on this hill.\n\nI cannot fathom anything more dishonorable and weak willed. To be so brazen and then to back down?\n\nEveryone always said that I was being 'unresonable' and 'unfair' in my judgements towards [rival.GetSHerHis] character, but now I have evidence; neatly gift wrapped to show anyone who questions me again."
+ rivalry.1025.a:0 "My honor remains as unsullied as ever."
  #TGTGB
  rivalry.1030.t:0 "Meddling in Marriage"
  rivalry.1030.desc.happy:0 "It irks me that my rival [rival.GetTitledFirstName] seems to enjoy the comforts of a blissful marriage with [rival.GetHerHis] [rival_spouse.GetWifeHusband] [rival_spouse.GetTitledFirstName]. I could cause [rival.GetHerHim] a good deal of stress and worry by sowing suspicion between the two, making them doubt one another."
