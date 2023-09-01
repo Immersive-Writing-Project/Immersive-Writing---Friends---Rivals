@@ -6,20 +6,21 @@
 #M.L
 #Edited.S9
 rivalry.0002.t:0 "Burying the Hatchet"
-rivalry.0002.desc:0 "Finally, our days of bickering and conflict are at an end. My scribes present [rival_response.GetTitledFirstName] with a copy of the agreed terms. Let the peace be signed, for I have other matters to attend."
+rivalry.0002.desc:0 "Finally, our days of bickering and conflict are at an end. My scribes present [rival_response.GetTitledFirstName] with a copy of the agreed terms. /n/nProclaim to all that peace has been made, for I have other matters to attend to."
 rivalry.0002.a:0 "Courtiers, send the messengers far and wide. Our rivalry is at an end."
 #D.I
+#Edited.S9
 
 rivalry.0003.t:0 "An Unworthy Opponent"
-rivalry.0003.imprisoned.desc:0 "A messenger brings news of [nemesis.GetTitledFirstName]. With a wry grin, he tells me [nemesis.GetSheHe] is chained and rotting.\n\nI had oftern wondered, should my enemy become detained in such a way, how would I feel? Would it be a joyous occasion? Should I now brandish the court with tales of fate and divine retribution?"
-rivalry.0003.incapable.desc:0 "A messenger brings news of my nemesis [nemesis.GetTitledFirstName]. With a wry grin, he tells me [nemesis.GetSheHe] is incapable and can no longer walk.\n\nTo think of [nemesis.GetHerHim] laying in the dark, their physical pain ever present... It is a mortifying thought."
-rivalry.0003.my_prisoner.desc:0 "Now I have [nemesis.GetTitledFirstName] in shackles. Let us see how [nemesis.GetSheHe] fares with a gag in their mouth. I have control of their person and every choice they make. I've finally conquered their small, petty life."
-rivalry.0003.middle.desc:0 "And so rest my concerns. [nemesis.GetTitledFirstName] is no longer a threat to me.\n\n"
-rivalry.0003.compassionate.desc:0 "I do wonder, is the fate which befell [nemesis.GetTitledFirstName] truly deserving? Time will heal the hurts we have done each other, the real pain [nemesis.GetSheHe] now suffers are [nemesis.GetHerHis] own to bare."
-rivalry.0003.uncompassionate.desc:0 "I sense the rivalry between us draws to an end. Let me hear no more about [nemesis.GetFullName]."
-rivalry.0003.a:0 "This burden is now behind me."
-rivalry.0003.b:0 "Our quarrel is a part of me, I will carry it always."
-#D.I. #edited.seljuk
+rivalry.0003.imprisoned.desc:0 "With a bow, he informs me that [nemesis.GetSheHe] is chained and captive. /n/nI must confess, I have thought about seeing [nemesis.GetHerHim] in chains...and now that day has come, and [nemesis.GetFullName] is exactly where [nemesis.GetSheHe] belongs! I look forward to regaling the court with tales of fate and divine retribution!"
+rivalry.0003.incapable.desc:0 "A messenger brings news of my nemesis [nemesis.GetTitledFirstName]. With a bow, he tells me [nemesis.GetSheHe] has suffered a grievous injury and has been reduced to a drooling husk! \n\nTo think of [nemesis.GetHerHim] lying senseless and useless... what a #italic delicious #! thought."
+rivalry.0003.my_prisoner.desc:0 "At long last, I have [nemesis.GetTitledFirstName] in shackles. Let us see just how much my little caged bird sings, now that I hold all the keys...Take care [nemesis.GetTitledFirstName], and pray that I am merciful"
+rivalry.0003.middle.desc:0 "The matter is settled, [nemesis.GetTitledFirstName] is no longer a threat to me.\n\n"
+rivalry.0003.compassionate.desc:0 "I confess, seeing [nemesis.GetTitledFirstName] suffering as [nemesis.GetSheHe] is tugs upon my heartstrings. Is [nemesis.GetSheHe] truly deserving of such a fate? To be reminded of one's own mortality is a sobering thing. /n/nI only hope [nemesis.GetSheHe] finds some semblance of peace."
+rivalry.0003.uncompassionate.desc:0 "The rivalry between us has come to an end. How nice it will be to not think about or speak of [nemesis.GetFullName] any longer!"
+rivalry.0003.a:0 "And so, these hostilities end"
+rivalry.0003.b:0 "The hate I feel for [nemesis.GetTitledFirstName] is a part of me, and I will carry it always."
+#D.I. #edited.seljuk #Edited.S9
 
  rivalry.1001.t:0 "Always Present"
  rivalry.1001.desc.opening:0 "[rival.GetTitledFirstName] has become a constant scourge upon my life.\n\n"
