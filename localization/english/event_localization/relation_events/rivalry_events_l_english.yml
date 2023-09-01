@@ -49,10 +49,10 @@ rivalry.0002.a:0 "Courtiers, send the messengers far and wide. Our rivalry is at
  rivlary.1010.c.tt:0 "#F [rival.GetTitledFirstName] will react to your snub #!"
 
  rivalry.1011.t:0 "Spiteful Sayings"
- rivalry.1011.desc.poem:0 "Whilst I enjoy a pleasant evening, I notice a band of courtiers huddled together and quietly talking. Occasionally they glance towards me. I step closer and see a poem. It is called, \n The Great [ROOT.Char.GetLadyLord] [ROOT.Char.GetFirstNameNicknamed] And [ROOT.Char.GetHerHis][ROOT.GetCharacter.Custom('quirk_neg_noun')] life. \n This is clearly an insult! \n I demand who wrote it. An aid steps forward and says it looks like [from_rival.GetFirstNamePossessive] writing."
- rivalry.1011.desc.rumors:0 "I want to hide from the court halls. I hear their sharp tongues from a distance, feel their cruel intent towards me. I wonder, is this the construction of [from_rival.GetTitledFirstName] ?"
- rivalry.1011.a:0 "Dam [from_rival.GetHerHis] impertinence!"
- #D.I.
+ rivalry.1011.desc.poem:0 "While enjoying a pleasant evening stroll around my estate, I notice a band of courtiers huddled together and talking in hushed tones. /n/n I happen to catch a few eyes as they furtively glance in my direction...they must be up to something! I step closer and see that they are poring over a poem called, \n The Great [ROOT.Char.GetLadyLord] [ROOT.Char.GetFirstNameNicknamed] And [ROOT.Char.GetHerHis][ROOT.GetCharacter.Custom('quirk_neg_noun')] life. \n Who has dared to write such a thing? \n I snatch it from the nearest hand and peer intently at the handwriting. /n/nTt looks like [from_rival.GetFirstNamePossessive] writing, that fiend!"
+ rivalry.1011.desc.rumors:0 "Whispers seem to follow me at every step, pouring falsehoods into the ears of all who can hear. I find no warmth in the eyes that fall upon me, no compassion or disbelief. I wonder, has something changed? Could [from_rival.GetTitledFirstName] stoop so low as to defame my character so publicly?"
+ rivalry.1011.a:0 "Damn [from_rival.GetHerHis] vile slander!"
+ #D.I. #Edited.S9
 
  rivalry.1012.t:0 "Foolish Fancies"
  rivalry.1012.desc.poem:0 "I have just learned that [from_rival.GetTitledFirstName] has written a slanderous poem in an attempt to mock me for my [ROOT.GetCharacter.Custom('quirk_neg_noun')]! However, [from_rival.GetHerHis] poem is so poorly written that everyone has instead been mocking [from_rival.GetFirstName] for wasting good paper on [rival.GetHerHis] drivel!"
