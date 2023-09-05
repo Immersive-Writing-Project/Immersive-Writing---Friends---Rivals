@@ -95,8 +95,9 @@
  friendship.1006.b:0 "[friend.GetFirstNameNoTooltip], I need #EMP more!#!"
  
  friendship.1007.t:0 "Treachery and Deviousness"
- friendship.1007.desc:0 "Incapable of dealing with [friend_at_war.GetHerHis] war on [friend_at_war.GetHerHis] own, [friend_at_war.GetTitledFirstName] has received aid by way of a large payment of gold from [friend_providing_gift.GetTitledFirstName]!"
- friendship.1007.a:0 "Dishonorable!"
+ friendship.1007.desc:0 "I read the missive again, pinching the bridge of my nose in frustration. [friend_at_war.GetTitledFirstName], too impoverished to deal with [friend_at_war.GetHerHis] own conflict, has accepted a sizable sum of gold from [friend_providing_gift.GetTitledFirstName] for the war effort. \n\nA worthy ruler should be capable of fighting their own battles! I certainly would be. Ashamed of my close ties with [friend_at_war.GetTitledFirstName], I crumple the parchment and toss it across the room."
+ friendship.1007.a:0 "How disappointing."
+ #D.L
  friendship.1008.t:0 "An Exemplary Figure"
  friendship.1008.desc:0 "[courtier_on_offer.GetTitledFirstName] has long served me well, and excelled in [courtier_on_offer.GetHerHis] duties. It has made me think that [courtier_on_offer.GetSheHe] is just the kind of person [friend_receiving_gift.GetTitledFirstName] could use at [friend_receiving_gift.GetHerHis] court."
  friendship.1008.a:0 "[friend_receiving_gift.GetFirstName] will appreciate [courtier_on_offer.GetHerHis] service."
