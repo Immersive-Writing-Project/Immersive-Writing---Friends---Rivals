@@ -57,24 +57,24 @@ rivalry.0003.b:0 "The hate I feel for [nemesis.GetTitledFirstName] is a part of 
  #D.I. #Edited.S9
 
  rivalry.1012.t:0 "Foolish Fancies"
- rivalry.1012.desc.poem:0 "I have just learned that [from_rival.GetTitledFirstName] has written a slanderous poem in an attempt to mock me for my [ROOT.GetCharacter.Custom('quirk_neg_noun')]! However, [from_rival.GetHerHis] poem is so poorly written that everyone has instead been mocking [from_rival.GetFirstName] for wasting good paper on [rival.GetHerHis] drivel!"
- rivalry.1012.desc.rumors:0 "I have just learned that [from_rival.GetTitledFirstName] has been attempting to spread slanderous rumors about the kinds of things I supposedly do behind closed doors. The [from_rival.Custom('quirk_neg_adjective')] wretch must have a very warped view of me, since the rumors were so outlandish and unbelievable that everyone has dismissed them outright. Instead, they are gossiping about how [from_rival.GetFirstName] stooped to such spiteful and petty measures."
- rivalry.1012.a:0 "Serves that wastrel right!"
+ rivalry.1012.desc.poem:0 "It has come to my attention that [from_rival.GetTitledFirstName] has spent many hours writing turgid scrawlings! their attempts have revolved around [ROOT.GetCharacter.Custom('quirk_neg_noun')]! However, [from_rival.GetHerHis] 'poem' is written poorly, and most readers and listeners have been focused upon it's lacking writing ability. [from_rival.GetFirstName] spent good paper in a attempt to insult, but have only managed to insult themselves. [rival.GetHerHis] produces this drivel effortlessly!"
+ rivalry.1012.desc.rumors:0 "A Servant pulls me aside, barely able to stifle their own belly laughter, waiting to hear the joke, they calm, and begin to regail me with a tale as wild as possible. by the end we are both barely able to stand from loud cackling. apparently, [from_rival.GetTitledFirstName] has been attempting to spread slanderous rumors about me! the kinds of things I supposedly do behind closed doors, and so forth. your average 'sexual pervsions, The tyrannical actions, unfaithfulness and cruelty.' speech everyone has heard before. a more colorful epitaphs are there as well. [from_rival.Custom('quirk_neg_adjective')] wretch's mind must be frail, as not only are these rumors horrifcly false, blatantly so, but everyone, servant to courtier, has giggled at their insane ramblings, and then promptly moved on. Instead, the new conversation is quite different from what was to be expected, as everyone is appaled, and talking openly about how [from_rival.GetFirstName] stooped to such a level. everything from the eloquant 'trifling' and 'unimportant' to more harsh criticisms as shit, either from a horse or bull."
+ rivalry.1012.a:0 "Try again loser!"
 
  rivalry.1013.t:0 "Rumors Planted"
- rivalry.1013.desc:0 "The scandalous rumors about [rival.GetTitledFirstName] I worked to spread among the court have become the new favorite topic for gossip and speculation. I've heard that [rival.GetTitledFirstName] has become increasingly vexed and frustrated trying to put a stop to them!"
- rivalry.1013.a:0 "Maybe this will finally put [rival.GetHerHim] in [rival.GetHerHis] place."
+ rivalry.1013.desc:0 "The sordid AND calumnious have been placed in the earshot of [rival.GetTitledFirstName]. as I hear it now, the new favorite court topic is whispering quietly and speculation about said topics. [rival.GetTitledFirstName] has been akin to a dog, racing around ditifully to each person. begging with big eyes to have them see reason!"
+ rivalry.1013.a:0 "[rival.GetTitledFirstName]... know your place."
 
  rivalry.1014.t:0 "Rumors Rejected!"
- rivalry.1014.desc.start:0 "Nobody is taking the rumors I've tried to spread about [rival.GetTitledFirstName] seriously, dismissing them as wild and outlandish. People are laughing more at"
- rivalry.1014.desc.hidden:0 "whomever created them, saying that they must be"
- rivalry.1014.desc.exposed:0 "me for creating them, saying that I am"
- rivalry.1014.desc.end:0 "immature and petty for stooping to such low tactics in an attempt to smear [rival.GetFirstNamePossessive] name."
- rivalry.1014.a:0 "At least I've been able to cover my tracks..."
- rivalry.1014.a.exposed:0 "That didn't go at all as planned."
+ rivalry.1014.desc.start:0 "it seems I have been hoodwinked. Many hour's pacing my chambers coming up with the most slanderous things to say about [rival.GetTitledFirstName] have succsessfuly been introduced to their social circle. HOWEVER, people are dismissing them as proposterously outlandish, and subjects of vicious mockery."
+ rivalry.1014.desc.hidden:0 "'whoever created this' one servant girl was overhead saying, 'must be'"
+ rivalry.1014.desc.exposed:0 "I have been strung up by words, and am now currently being drawn a quartered through slander."
+ rivalry.1014.desc.end:0 "immature, like a peasent school house's chatter! how dare they sling their filth at [rival.GetFirstNamePossessive] name!"
+ rivalry.1014.a:0 "the saving grace? I'm 'innocent'"
+ rivalry.1014.a.exposed:0 "*massages eyes and huffs*"
 
 rivalry.1015.t:0 "Popular Poem"
-rivalry.1015.desc:0 "Oh, how I love the puppet theatre! But let me make some improvements. The lead fool shall be none other than [rival.GetTitledFirstNamePossessive]. And the horse puppet is to sit on [rival.GetHerHis] face. That’s it, very good."
+rivalry.1015.desc:0 " (I EDITED THIS WITHOUT SEEING THE OTHER EDIT MARKINGS IM SO SORRY.) The lead fool shall be none other than [rival.GetTitledFirstNamePossessive]. And the horse puppet is to sit on [rival.GetHerHis] face. That’s it, very good."
 rivalry.1015.a:0 "Now, play this puppet show in every town."
 #D.I.
 
